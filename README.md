@@ -14,3 +14,7 @@ https://github.com/leonamsalomao/projeto_01_explorer
 
 Link para visualização do projeto no ar.
 https://codepen.io/leonamsalomao/pen/BarwBKW?editors=1100
+
+
+Veja também a publicação no linkedIn
+https://www.linkedin.com/pulse/projeto-m%25C3%25B3veis-customizados-leonam-salom%25C3%25A3o/
